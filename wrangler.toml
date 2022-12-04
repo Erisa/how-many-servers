@@ -1,0 +1,5 @@
+name = "how-many-servers"
+main = "src/index.ts"
+compatibility_date = "2022-12-03"
+
+vars = {  DISCORD_APP_ID = "1048747106904571914" }
