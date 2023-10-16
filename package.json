@@ -1,6 +1,6 @@
 {
   "dependencies": {
-    "wrangler": "^2.20.1"
+    "wrangler": "^3.13.1"
   },
   "devDependencies": {
     "@cloudflare/workers-types": "^4.20221111.1",
